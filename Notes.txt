@@ -1,0 +1,3 @@
+In AI_Car_Obstacle folder, there is Obstacle_Car_Path and Obstacle_Car_Path1 and both are different path spline for AI_Car_Obstacle1 or AI_Car_Obstalce2.
+The BP_light_streetlight_complete and BP_light_streetlight_complete1 in the Downtown_West->Assets->props->Props_streetlight folder are 2 different traffic light that stops AI_Car_Obstacle1 or AI_Car_Obstalce2.
+The 4 Stop_AI_Car_Obstacle in AI_Car_Obstacle folder are for either AI_Car_Obstacle1 or AI_Car_Obstalce2 and one of them is stop indefinitely while the other is stop and move on after a set time.
